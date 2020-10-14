@@ -1,0 +1,3 @@
+#Program Aplikasi NotePade
+
+#Beta
